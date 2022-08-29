@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/face.iml" filepath="$PROJECT_DIR$/face.iml" group="face" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face.iml" filepath="$PROJECT_DIR$/.idea/modules/face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/face.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face.main.iml" filepath="$PROJECT_DIR$/.idea/modules/face.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/face.unitTest.iml" />
     </modules>
   </component>
 </project>
